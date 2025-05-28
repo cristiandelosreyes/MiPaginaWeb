@@ -1,0 +1,26 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: aliceblue;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  text-transform: uppercase;
+}
+fieldset {
+  margin-right: 50px;
+  margin-left: 400px;
+}
+
+ol {
+  text-align: center;
+}
+ul {
+  text-decoration: none;
+  align-items: center;
+}
+
+table {
+  text-align: center;
+}
